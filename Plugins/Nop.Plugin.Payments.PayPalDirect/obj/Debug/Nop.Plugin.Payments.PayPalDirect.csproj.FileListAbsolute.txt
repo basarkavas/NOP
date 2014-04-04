@@ -1,0 +1,7 @@
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Description.txt
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll.config
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csprojResolveAssemblyReference.cache

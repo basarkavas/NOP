@@ -1,0 +1,359 @@
+Build started 02.04.2014 15:24:44.
+     1>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\build\nop.proj" on node 1 (default targets).
+         Building Everything
+     1>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\build\nop.proj" (1) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) on node 1 (default targets).
+         Building solution configuration "Release|Any CPU".
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Core\Nop.Core.csproj" (3) on node 1 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Data\Nop.Data.csproj" (5) on node 3 (default targets).
+         Restoring NuGet packages...
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Data.Tests\Nop.Data.Tests.csproj" (6) on node 2 (default targets).
+         Restoring NuGet packages...
+     5>RestorePackages:
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+     6>RestorePackages:
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+     5>RestorePackages:
+         All packages listed in packages.config are already installed.
+     6>RestorePackages:
+         All packages listed in packages.config are already installed.
+     3>RestorePackages:
+         All packages listed in packages.config are already installed.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Services\Nop.Services.csproj" (7) on node 4 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+         All packages listed in packages.config are already installed.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       CoreCompile:
+       Skipping target "CoreCompile" because all output files are up-to-date with respect to the input files.
+       CopyFilesToOutputDirectory:
+         Nop.Core -> C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Core\bin\Release\Nop.Core.dll
+     3>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Core\Nop.Core.csproj" (default targets).
+     6>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Data.Tests\Nop.Data.Tests.csproj" (6) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Tests\Nop.Tests.csproj" (8) on node 2 (default targets).
+         Restoring NuGet packages...
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Core.Tests\Nop.Core.Tests.csproj" (9) on node 4 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+     8>RestorePackages:
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Services.Tests\Nop.Services.Tests.csproj" (10) on node 3 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+       RestorePackages:
+         All packages listed in packages.config are already installed.
+     9>RestorePackages:
+         All packages listed in packages.config are already installed.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.DiscountRules.BillingCountry\Nop.Plugin.DiscountRules.BillingCountry.csproj" (11) on node 1 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+    10>RestorePackages:
+         All packages listed in packages.config are already installed.
+    11>RestorePackages:
+         All packages listed in packages.config are already installed.
+     8>GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       CoreCompile:
+       Skipping target "CoreCompile" because all output files are up-to-date with respect to the input files.
+       CopyFilesToOutputDirectory:
+         Nop.Tests -> C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Tests\bin\Release\Nop.Tests.dll
+     8>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Tests\Nop.Tests.csproj" (default targets).
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Tax.FixedRate\Nop.Plugin.Tax.FixedRate.csproj" (12) on node 4 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+    11>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.DiscountRules.BillingCountry\Nop.Plugin.DiscountRules.BillingCountry.csproj" (11) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web.Framework\Nop.Web.Framework.csproj" (14) on node 1 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.csproj" (13) on node 3 (default targets).
+         Restoring NuGet packages...
+    12>RestorePackages:
+         All packages listed in packages.config are already installed.
+    13>RestorePackages:
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+         All packages listed in packages.config are already installed.
+    14>RestorePackages:
+         All packages listed in packages.config are already installed.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.csproj" (15) on node 2 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+         All packages listed in packages.config are already installed.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.csproj" (16) on node 4 (default targets).
+         Restoring NuGet packages...
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Web.MVC.Tests\Nop.Web.MVC.Tests.csproj" (17) on node 1 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+    16>RestorePackages:
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.DiscountRules.ShippingCountry\Nop.Plugin.DiscountRules.ShippingCountry.csproj" (18) on node 3 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+         All packages listed in packages.config are already installed.
+       RestorePackages:
+         All packages listed in packages.config are already installed.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.SMS.Verizon\Nop.Plugin.SMS.Verizon.csproj" (19) on node 2 (default targets).
+         Restoring NuGet packages...
+    17>RestorePackages:
+         All packages listed in packages.config are already installed.
+    19>RestorePackages:
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+         All packages listed in packages.config are already installed.
+    17>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Web.MVC.Tests\Nop.Web.MVC.Tests.csproj" (17) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Administration\Nop.Admin.csproj" (20) on node 1 (default targets).
+    20>C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Administration\Nop.Admin.csproj(1075,3): error MSB4019: The imported project "C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v11.0\WebApplications\Microsoft.WebApplication.targets" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+    20>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Administration\Nop.Admin.csproj" (default targets) -- FAILED.
+    17>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Web.MVC.Tests\Nop.Web.MVC.Tests.csproj" (17) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Nop.Web.csproj" (21) on node 1 (default targets).
+    21>C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Nop.Web.csproj(1755,3): error MSB4019: The imported project "C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v11.0\WebApplications\Microsoft.WebApplication.targets" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+    21>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Nop.Web.csproj" (default targets) -- FAILED.
+     5>GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       CoreCompile:
+       Skipping target "CoreCompile" because all output files are up-to-date with respect to the input files.
+     9>GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+     5>CopyFilesToOutputDirectory:
+         Nop.Data -> C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Data\bin\Release\Nop.Data.dll
+     9>CoreCompile:
+       Skipping target "CoreCompile" because all output files are up-to-date with respect to the input files.
+     5>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Data\Nop.Data.csproj" (default targets).
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Payments.Manual\Nop.Plugin.Payments.Manual.csproj" (22) on node 1 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.csproj" (23) on node 2 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Feed.Froogle\Nop.Plugin.Feed.Froogle.csproj" (24) on node 3 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+    22>RestorePackages:
+         All packages listed in packages.config are already installed.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.csproj" (25) on node 4 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+    23>RestorePackages:
+         All packages listed in packages.config are already installed.
+    24>RestorePackages:
+         All packages listed in packages.config are already installed.
+    25>RestorePackages:
+         All packages listed in packages.config are already installed.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\Nop.Plugin.DiscountRules.HasAllProducts.csproj" (26) on node 1 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.csproj" (27) on node 4 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.DiscountRules.PurchasedAllProducts\Nop.Plugin.DiscountRules.PurchasedAllProducts.csproj" (28) on node 2 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+    26>RestorePackages:
+         All packages listed in packages.config are already installed.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.DiscountRules.PurchasedOneProduct\Nop.Plugin.DiscountRules.PurchasedOneProduct.csproj" (29) on node 3 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+    27>RestorePackages:
+         All packages listed in packages.config are already installed.
+    29>RestorePackages:
+         All packages listed in packages.config are already installed.
+    28>RestorePackages:
+         All packages listed in packages.config are already installed.
+     9>_CopyAppConfigFile:
+       Skipping target "_CopyAppConfigFile" because all output files are up-to-date with respect to the input files.
+       CopyFilesToOutputDirectory:
+         Nop.Core.Tests -> C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Core.Tests\bin\Release\Nop.Core.Tests.dll
+     9>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Core.Tests\Nop.Core.Tests.csproj" (default targets).
+     7>GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       CoreCompile:
+       Skipping target "CoreCompile" because all output files are up-to-date with respect to the input files.
+     6>GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       CoreCompile:
+       Skipping target "CoreCompile" because all output files are up-to-date with respect to the input files.
+     7>SGEN : error : Could not load file or assembly 'file:///C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Autofac.2.6.3.862\lib\NET40\Autofac.Configuration.dll' or one of its dependencies. Operation is not supported. (Exception from HRESULT: 0x80131515)
+           - An attempt was made to load an assembly from a network location which would have caused the assembly to be sandboxed in previous versions of the .NET Framework. This release of the .NET Framework does not enable CAS policy by default, so this load may be dangerous. If this load is not intended to sandbox the assembly, please enable the loadFromRemoteSources switch. See http://go.microsoft.com/fwlink/?LinkId=155569 for more information.
+     7>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Services\Nop.Services.csproj" (default targets) -- FAILED.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.csproj" (30) on node 1 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+         All packages listed in packages.config are already installed.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Shipping.USPS\Nop.Plugin.Shipping.USPS.csproj" (31) on node 3 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+    14>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web.Framework\Nop.Web.Framework.csproj" (default targets) -- FAILED.
+    11>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.DiscountRules.BillingCountry\Nop.Plugin.DiscountRules.BillingCountry.csproj" (default targets) -- FAILED.
+    30>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.csproj" (default targets) -- FAILED.
+    26>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\Nop.Plugin.DiscountRules.HasAllProducts.csproj" (default targets) -- FAILED.
+    22>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Payments.Manual\Nop.Plugin.Payments.Manual.csproj" (default targets) -- FAILED.
+    17>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Web.MVC.Tests\Nop.Web.MVC.Tests.csproj" (default targets) -- FAILED.
+    31>RestorePackages:
+         All packages listed in packages.config are already installed.
+    31>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Shipping.USPS\Nop.Plugin.Shipping.USPS.csproj" (default targets) -- FAILED.
+    10>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Services.Tests\Nop.Services.Tests.csproj" (default targets) -- FAILED.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Shipping.UPS\Nop.Plugin.Shipping.UPS.csproj" (32) on node 2 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+    29>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.DiscountRules.PurchasedOneProduct\Nop.Plugin.DiscountRules.PurchasedOneProduct.csproj" (default targets) -- FAILED.
+    24>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Feed.Froogle\Nop.Plugin.Feed.Froogle.csproj" (default targets) -- FAILED.
+    18>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.DiscountRules.ShippingCountry\Nop.Plugin.DiscountRules.ShippingCountry.csproj" (default targets) -- FAILED.
+    13>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.csproj" (default targets) -- FAILED.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Shipping.Fedex\Nop.Plugin.Shipping.Fedex.csproj" (33) on node 4 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+    32>RestorePackages:
+         All packages listed in packages.config are already installed.
+    33>RestorePackages:
+         All packages listed in packages.config are already installed.
+    32>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Shipping.UPS\Nop.Plugin.Shipping.UPS.csproj" (default targets) -- FAILED.
+    28>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.DiscountRules.PurchasedAllProducts\Nop.Plugin.DiscountRules.PurchasedAllProducts.csproj" (default targets) -- FAILED.
+    33>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Shipping.Fedex\Nop.Plugin.Shipping.Fedex.csproj" (default targets) -- FAILED.
+    27>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.csproj" (default targets) -- FAILED.
+    23>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.csproj" (default targets) -- FAILED.
+    19>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.SMS.Verizon\Nop.Plugin.SMS.Verizon.csproj" (default targets) -- FAILED.
+    25>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.csproj" (default targets) -- FAILED.
+    15>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.csproj" (default targets) -- FAILED.
+    16>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.csproj" (default targets) -- FAILED.
+    12>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Tax.FixedRate\Nop.Plugin.Tax.FixedRate.csproj" (default targets) -- FAILED.
+     6>_CopyAppConfigFile:
+       Skipping target "_CopyAppConfigFile" because all output files are up-to-date with respect to the input files.
+       CopyFilesToOutputDirectory:
+         Nop.Data.Tests -> C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Data.Tests\bin\Release\Nop.Data.Tests.dll
+       PostBuildEvent:
+         File not found - *.*
+         0 File(s) copied
+         File not found - *.*
+         0 File(s) copied
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\x86\sqlceca40.dll
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\x86\sqlcecompact40.dll
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\x86\sqlceer40EN.dll
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.csproj" (34) on node 1 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+       PostBuildEvent:
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\x86\sqlceme40.dll
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\x86\sqlceqp40.dll
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\x86\sqlcese40.dll
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\x86\Microsoft.VC90.CRT\msvcr90.dll
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\x86\Microsoft.VC90.CRT\README_ENU.txt
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.csproj" (35) on node 3 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+    34>RestorePackages:
+         All packages listed in packages.config are already installed.
+     6>PostBuildEvent:
+         9 File(s) copied
+    34>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.csproj" (default targets) -- FAILED.
+     6>PostBuildEvent:
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\amd64\sqlceca40.dll
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\amd64\sqlcecompact40.dll
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\amd64\sqlceer40EN.dll
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\amd64\sqlceme40.dll
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\amd64\sqlceqp40.dll
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\amd64\sqlcese40.dll
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+    35>RestorePackages:
+         All packages listed in packages.config are already installed.
+     6>PostBuildEvent:
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\amd64\Microsoft.VC90.CRT\msvcr90.dll
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\amd64\Microsoft.VC90.CRT\README_ENU.txt
+         9 File(s) copied
+     6>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Data.Tests\Nop.Data.Tests.csproj" (default targets).
+    35>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.csproj" (default targets) -- FAILED.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.csproj" (36) on node 4 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+         All packages listed in packages.config are already installed.
+    36>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.csproj" (default targets) -- FAILED.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.csproj" (37) on node 1 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.csproj" (38) on node 2 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.csproj" (39) on node 3 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+    37>RestorePackages:
+         All packages listed in packages.config are already installed.
+    38>RestorePackages:
+         All packages listed in packages.config are already installed.
+    37>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.csproj" (default targets) -- FAILED.
+    39>RestorePackages:
+         All packages listed in packages.config are already installed.
+    38>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.csproj" (default targets) -- FAILED.
+    39>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.csproj" (default targets) -- FAILED.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.csproj" (40) on node 4 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+         All packages listed in packages.config are already installed.
+    40>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.csproj" (default targets) -- FAILED.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.csproj" (41) on node 1 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Payments.GoogleCheckout\Nop.Plugin.Payments.GoogleCheckout.csproj" (42) on node 2 (default targets).
+         Restoring NuGet packages...
+    41>RestorePackages:
+         All packages listed in packages.config are already installed.
+    42>RestorePackages:
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.csproj" (43) on node 3 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+       RestorePackages:
+         All packages listed in packages.config are already installed.
+    41>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.csproj" (default targets) -- FAILED.
+    42>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Payments.GoogleCheckout\Nop.Plugin.Payments.GoogleCheckout.csproj" (default targets) -- FAILED.
+    43>RestorePackages:
+         All packages listed in packages.config are already installed.
+    43>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.csproj" (default targets) -- FAILED.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.ExternalAuth.OpenId\Nop.Plugin.ExternalAuth.OpenId.csproj" (44) on node 4 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+         All packages listed in packages.config are already installed.
+    44>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.ExternalAuth.OpenId\Nop.Plugin.ExternalAuth.OpenId.csproj" (default targets) -- FAILED.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.csproj" (45) on node 1 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Misc.WebServices\Nop.Plugin.Misc.WebServices.csproj" (46) on node 2 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+    45>RestorePackages:
+         All packages listed in packages.config are already installed.
+     2>Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (2) is building "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.csproj" (47) on node 3 (default targets).
+         Restoring NuGet packages...
+         To prevent NuGet from downloading packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages'.
+    46>RestorePackages:
+         All packages listed in packages.config are already installed.
+    45>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.csproj" (default targets) -- FAILED.
+    46>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Misc.WebServices\Nop.Plugin.Misc.WebServices.csproj" (default targets) -- FAILED.
+    47>RestorePackages:
+         All packages listed in packages.config are already installed.
+    47>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.csproj" (default targets) -- FAILED.
+     2>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (default targets) -- FAILED.
+     1>Done Building Project "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\build\nop.proj" (default targets) -- FAILED.
+
+Build FAILED.
+
+       "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\build\nop.proj" (default target) (1) ->
+       "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (default target) (2) ->
+       "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Web.MVC.Tests\Nop.Web.MVC.Tests.csproj" (default target) (17) ->
+       "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Administration\Nop.Admin.csproj" (default target) (20) ->
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Administration\Nop.Admin.csproj(1075,3): error MSB4019: The imported project "C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v11.0\WebApplications\Microsoft.WebApplication.targets" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+
+
+       "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\build\nop.proj" (default target) (1) ->
+       "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (default target) (2) ->
+       "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Web.MVC.Tests\Nop.Web.MVC.Tests.csproj" (default target) (17) ->
+       "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Nop.Web.csproj" (default target) (21) ->
+         C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Nop.Web.csproj(1755,3): error MSB4019: The imported project "C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v11.0\WebApplications\Microsoft.WebApplication.targets" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+
+
+       "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\build\nop.proj" (default target) (1) ->
+       "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\NopCommerce.sln" (default target) (2) ->
+       "C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Services\Nop.Services.csproj" (default target) (7) ->
+       (GenerateSerializationAssemblies target) -> 
+         SGEN : error : Could not load file or assembly 'file:///C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\packages\Autofac.2.6.3.862\lib\NET40\Autofac.Configuration.dll' or one of its dependencies. Operation is not supported. (Exception from HRESULT: 0x80131515)
+
+    0 Warning(s)
+    3 Error(s)
+
+Time Elapsed 00:00:03.26

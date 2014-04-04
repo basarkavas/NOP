@@ -1,0 +1,7 @@
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Tests\bin\Release\Nop.Tests.dll
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Tests\bin\Release\nunit.framework.dll
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Tests\bin\Release\Rhino.Mocks.dll
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Tests\bin\Release\nunit.framework.xml
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Tests\bin\Release\Rhino.Mocks.xml
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Tests\obj\Release\Nop.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Tests\Nop.Tests\obj\Release\Nop.Tests.dll

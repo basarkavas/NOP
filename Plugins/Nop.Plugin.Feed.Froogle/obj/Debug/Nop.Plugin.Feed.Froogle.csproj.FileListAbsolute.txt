@@ -1,0 +1,14 @@
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Description.txt
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Content\styles.css
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.pdb
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.csprojResolveAssemblyReference.cache
+D:\basar\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Description.txt
+D:\basar\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Content\styles.css
+D:\basar\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll
+D:\basar\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.pdb
+D:\basar\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.csprojResolveAssemblyReference.cache
+D:\basar\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
+D:\basar\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb

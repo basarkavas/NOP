@@ -1,0 +1,7 @@
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Shipping.Fedex\Description.txt
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll.config
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.pdb
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.dll
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.pdb
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.csprojResolveAssemblyReference.cache

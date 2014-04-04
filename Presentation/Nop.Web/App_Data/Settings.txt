@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=UTOPIADEV\SQL2008;Initial Catalog=BASAR;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=dream;MultipleActiveResultSets=True

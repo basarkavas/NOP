@@ -1,0 +1,14 @@
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Data\bin\Debug\Nop.Data.dll
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Data\bin\Debug\Nop.Data.pdb
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Data\bin\Debug\EntityFramework.dll
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Data\bin\Debug\Nop.Core.dll
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Data\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Data\bin\Debug\System.Data.SqlServerCe.Entity.dll
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Data\bin\Debug\Autofac.dll
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Data\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Data\bin\Debug\Nop.Core.pdb
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Data\bin\Debug\EntityFramework.xml
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Data\bin\Debug\Autofac.xml
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Data\obj\Debug\Nop.Data.csprojResolveAssemblyReference.cache
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Data\obj\Debug\Nop.Data.dll
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Data\obj\Debug\Nop.Data.pdb

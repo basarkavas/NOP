@@ -1,0 +1,16 @@
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Misc.WebServices\Description.txt
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\NopService.svc
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\web.config
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.dll
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.pdb
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.dll
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.pdb
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.csprojResolveAssemblyReference.cache
+D:\basar\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Misc.WebServices\Description.txt
+D:\basar\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\NopService.svc
+D:\basar\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\web.config
+D:\basar\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.dll
+D:\basar\nopCommerce_2.80_Source\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.pdb
+D:\basar\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.csprojResolveAssemblyReference.cache
+D:\basar\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.dll
+D:\basar\nopCommerce_2.80_Source\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.pdb

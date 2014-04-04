@@ -1,0 +1,2 @@
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Services\obj\Release\Nop.Services.csprojResolveAssemblyReference.cache
+C:\Users\bkavas\Desktop\nopCommerce_2.80_Source\Libraries\Nop.Services\obj\Release\Nop.Services.dll
